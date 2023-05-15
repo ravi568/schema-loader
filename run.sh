@@ -26,6 +26,7 @@ case $1 in
 esac
 
 
+
 #    - name: Download Mongodb pem file
 #      ansible.builtin.get_url:
 #        url: https://s3.amazonaws.com/rds-downloads/rds-combined-ca-bundle.pem
